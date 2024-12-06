@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a style="font-size: 16px;">Computational scientist</a>
+subtitle: <font size="16"> Computational scientist</font>
 
 profile:
   align: left
